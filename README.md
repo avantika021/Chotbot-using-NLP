@@ -32,6 +32,5 @@ This project demonstrates the creation of a **Chatbot** using **Natural Language
 Follow these steps to set up and run the chatbot:
 
 1. **Clone the Repository:**
+   ```bash  [ https://github.com/avantika021/Chotbot-using-NLP.git ]
 
-   ```bash
- [ https://github.com/avantika021/Chotbot-using-NLP.git ]
