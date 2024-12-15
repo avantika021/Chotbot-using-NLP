@@ -34,5 +34,5 @@ Follow these steps to set up and run the chatbot:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/chatbot-nlp.git
-   cd chatbot-nlp
+ [  git clone https://github.com/your-username/chatbot-nlp.git
+   cd chatbot-nlp](https://github.com/avantika021/Chotbot-using-NLP.git)
